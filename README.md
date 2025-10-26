@@ -16,7 +16,7 @@
 <a href="https://linkedin.com/in/1505-mahalakshmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="1505-mahalakshmi" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/mahalakshmi99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mahalakshmi99" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mahalakshmi_1505" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mahalakshmi_1505" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mahalakshmi_215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mahalakshmi_215" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/maha1505" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mahalakshmi_215" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -33,7 +33,7 @@
 
 ### LeetCode Info 
 
-[![](https://leetcard.jacoblin.cool/mahalakshmi_215?ext=heatmap)](https://leetcard.jacoblin.cool/mahalakshmi_215?ext=heatmap)
+[![](https://leetcard.jacoblin.cool/maha1505?ext=heatmap)](https://leetcard.jacoblin.cool/maha1505?ext=heatmap)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
