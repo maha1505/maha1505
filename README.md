@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Mahalakshmi J</h1>
+<h1 align="center">I'm Mahalakshmi J</h1>
 <h3 align="center">Computer Science Undergraduate student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maha1505&label=Profile%20views&color=0e75b6&style=flat" alt="maha1505" /> </p>
 
-- 🔭 I’m currently working on **Full-stack projects**
+- I’m currently working on **Full-stack projects**
 
-- 🌱 I’m currently learning **Data Structures and algorithms**
+- I’m currently learning **Data Structures and algorithms**
 
-- 👯 I’m looking to collaborate on **Full-stack and front-end projects**
+- I’m looking to collaborate on **Full-stack and front-end projects**
 
-- 📫 How to reach me **mahalakshmikan1505@gmail.com**
+- How to reach me **mahalakshmikan1505@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,13 +28,13 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maha1505&" alt="maha1505" /></p>
 
-### 🔝 Top Contributed Repo
+### Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=maha1505&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### LeetCode Info 
 
 [![](https://leetcard.jacoblin.cool/maha1505?ext=heatmap)](https://leetcard.jacoblin.cool/maha1505?ext=heatmap)
-### ✍️ Random Dev Quote
+### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
