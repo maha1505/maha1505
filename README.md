@@ -303,12 +303,14 @@ const mahalakshmi = {
 
 ---
 
-## Visitor Count
+## Visitor Map
 
 <div align="center">
+  <a href="https://mapmyvisitors.com/web/1c3yu" title="Visit tracker">
+    <img src="https://mapmyvisitors.com/map.png?d=URFbX8lZgAuBiRuydq2RZu_teM6FhI-4SbRK1MxbbGw&cl=ffffff" />
+  </a>
+  <br/>
   <img src="https://komarev.com/ghpvc/?username=maha1505&label=Profile+Views&color=7c3aed&style=for-the-badge" />
-  &nbsp;
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmaha1505&count_bg=%237c3aed&title_bg=%23302b63&icon=github.svg&icon_color=%23ffffff&title=Visits&edge_flat=false" />
 </div>
 
 ---
