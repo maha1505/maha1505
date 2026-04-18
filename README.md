@@ -272,13 +272,12 @@ const mahalakshmi = {
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maha1505/maha1505/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maha1505/maha1505/output/github-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/maha1505/maha1505/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maha1505/maha1505/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maha1505/maha1505/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/maha1505/maha1505/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
-> **Setup:** Go to your profile repo → Actions → New workflow → paste the [snake workflow](https://github.com/Platane/snk#usage) → it auto-generates the SVG on a schedule.
 
 ---
 
