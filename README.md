@@ -156,7 +156,7 @@ const mahalakshmi = {
 | # | Title | Conference | Status |
 |---|-------|-----------|--------|
 | 1 | **Deep Learning based Land Cover Prediction for River Watershed Management** | IEEE – ICUIS 2025 | Published |
-| 2 | **Urbanization Pattern Analysis for Regional Environmental Impact** | IEEE – I-SMAC 2025 | Accepted & Presented |
+| 2 | **Urbanization Pattern Analysis for Regional Environmental Impact** | IEEE – I-SMAC 2025 | Published |
 
 </div>
 
