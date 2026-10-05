@@ -43,7 +43,7 @@
       </td>
       <td align="center" width="140">
         <img src="https://img.shields.io/badge/2-IEEE%20Papers-1d4ed8?style=for-the-badge" /><br/>
-        <sub>Published · Accepted</sub>
+        <sub>Published</sub>
       </td>
       <td align="center" width="140">
         <img src="https://img.shields.io/badge/600%2B-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /><br/>
@@ -66,7 +66,7 @@ const mahalakshmi = {
   role         : "Final Year CS Undergrad | Full-Stack Developer",
   location     : "India 🇮🇳",
   internships  : ["UptoSkills (MERN)", "ShadowFox (Web Dev)", "CodSoft (ML)"],
-  publications : ["IEEE ICUIS 2025 – Published", "IEEE I-SMAC 2025 – Accepted"],
+  publications : ["IEEE ICUIS 2025 – Published", "IEEE I-SMAC 2025 – Published"],
   achievements : ["600+ LeetCode Problems", "Hackathon Runner-Up (48hrs)", "Intern of the Month"],
   liveProjects : ["rolecore.onrender.com", "finoxa.onrender.com"],
   currentFocus : "Actively seeking Full-Time / SDE roles",
